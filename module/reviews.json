@@ -1,0 +1,25 @@
+{
+    "reviews": [
+        {
+            "id": 1,
+            "customerName": "Sarah Johnson",
+            "image": "https://tse3.mm.bing.net/th/id/OIP.WkO_qS3XK-RI-Y-aBgIolAAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "review": "Absolutely amazing food! The roasted chicken bowl was perfectly seasoned and the service was exceptional. Will definitely be coming back!",
+            "rating": 5
+        },
+        {
+            "id": 2,
+            "customerName": "Mike Chen",
+            "image": "https://img.freepik.com/premium-photo/beautiful-girl-white-background_902994-438.jpg",
+            "review": "Fresh ingredients and great flavors. The Mediterranean bowl is my new favorite. Highly recommend this place for healthy eating options.",
+            "rating": 5
+        },
+        {
+            "id": 3,
+            "customerName": "Emily Rodriguez",
+            "image": "https://thumbs.dreamstime.com/b/beautiful-girl-white-background-studio-portrait-happy-attractive-caucasian-young-woman-long-hair-posing-against-front-74815494.jpg",
+            "review": "Love the variety of options available. The staff is friendly and the atmosphere is welcoming. Perfect spot for a casual lunch.",
+            "rating": 4
+        }
+    ]
+}
